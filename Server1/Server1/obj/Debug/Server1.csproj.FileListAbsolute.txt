@@ -1,0 +1,6 @@
+C:\Users\Tanmay\Desktop\Semester1\Software Modelling and Analysis\MY_PROJECT_4\Server1\Server1\bin\Debug\Server1.exe.config
+C:\Users\Tanmay\Desktop\Semester1\Software Modelling and Analysis\MY_PROJECT_4\Server1\Server1\bin\Debug\Server1.exe
+C:\Users\Tanmay\Desktop\Semester1\Software Modelling and Analysis\MY_PROJECT_4\Server1\Server1\bin\Debug\Server1.pdb
+C:\Users\Tanmay\Desktop\Semester1\Software Modelling and Analysis\MY_PROJECT_4\Server1\Server1\obj\Debug\Server1.csprojResolveAssemblyReference.cache
+C:\Users\Tanmay\Desktop\Semester1\Software Modelling and Analysis\MY_PROJECT_4\Server1\Server1\obj\Debug\Server1.exe
+C:\Users\Tanmay\Desktop\Semester1\Software Modelling and Analysis\MY_PROJECT_4\Server1\Server1\obj\Debug\Server1.pdb
