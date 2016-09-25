@@ -1,0 +1,10 @@
+﻿<Window x:Class="DepnClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="442.537" Width="841.418">
+    <Grid>
+        <Button Content="Connect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="215" Height="100" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Name="text1" Height="242" Margin="442,100,0,0" TextWrapping="Wrap" Text="hi" VerticalAlignment="Top" Width="286"/>
+
+    </Grid>
+</Window>
